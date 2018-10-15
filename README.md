@@ -1,5 +1,7 @@
 # BridgeUP-STEM-Oceans-Six
 
+![Image of sea otter](https://www.maxpixel.net/static/photo/2x/Swimming-Sea-Otter-Floating-Mammal-Alaska-Ocean-273064.jpg)
+
 This is the GitHub repository for Katy Abbott's 2018 - 2019 BridgeUP:STEM internship group: Ocean's Six
 
 ## Planned schedule
