@@ -17,7 +17,7 @@ This is the GitHub repository for Katy Abbott's 2018 - 2019 BridgeUP:STEM intern
 | Nov. 1, 2018 (Thursday) |  |  |  |
 | Nov. 6, 2018 (Tuesday) | No session |   | Election Day |
 | Nov. 8, 2018 (Thursday) |  |  |  |
-| Nov. 13, 2018 (Tuesday) |  |  |  |
+| Nov. 13, 2018 (Tuesday) |  | - Guest speaker | Guest speaker: Mia Polansky |
 | Nov. 15, 2018 (Thursday) |  |  |  |
 | Nov. 20, 2018 (Tuesday) |  |  |  |
 | Nov. 22, 2018 (Thursday) | No session |   | Thanksgiving Day |
