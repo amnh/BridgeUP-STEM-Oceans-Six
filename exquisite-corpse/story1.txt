@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 #Add your story here
+=======
+#Your story here!
+>>>>>>> 464d739cdbe0e5c7756ae5b65bece91342160035
