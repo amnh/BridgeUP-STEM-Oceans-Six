@@ -21,6 +21,7 @@
 
 5. When you clone a repository, GitHub automatically creates a _remote_ called _origin_ that lets you interact with the online repository and make or download changes. Type **git remote -v** in Terminal to see a list of your remotes.
 6. Add me as a collaborator to your repository — that way, I'll be able to see your work and integrate it into the main repository. Under settings in your repository, visit "Collaborators & teams" and add my username (katyabbott) into the "Add collaborators" box. 
+![git remotes](https://github.com/katyabbott/BridgeUP-STEM-Oceans-Six/blob/master/photos/collaborate.png)
 7. Now, we'll add a new remote that points to the original repository — the one that you forked your own repository from. This way, if any changes are made to that original repository, you will be able to download them.
     * Type **git add remote upstream** **https://github.com/amnh/BridgeUP-STEM-Oceans-Six** in Terminal.
     * Now, type **git remote -v** again. You should see two remotes: One called **origin** that points to your own repository, and one called **upstream** that points to the original.
