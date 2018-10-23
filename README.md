@@ -10,11 +10,11 @@ This is the GitHub repository for Katy Abbott's 2018 - 2019 BridgeUP:STEM intern
 | Oct. 9, 2018 (Tuesday) | Welcome + introduction |  - Ice breakers <br/> - Expectations <br/> - Get to know each other | First day of official class | [Python refresher](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/CodingPractice_10-09-18.ipynb)
 | Oct. 11, 2018 (Thursday) | Introduction to OCEANS |- What is the Coriolis effect? <br/> - Python practice |   | 
 | Oct. 16, 2018 (Tuesday) | Introduction to OCEANS | - Bermuda Triangle myths debunked <br/> - What are eddies? |   | [Ocean eddies activity](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/OceanEddies.pdf)
-| Oct. 18, 2018 (Thursday) | Introduction to OCEANS |- What are list comprehensions? <br/> - Guest speaker | Guest speaker: David Lindo Atichati | [List comprehensions](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/List_Comprehensions_and_Datsets_101818.ipynb)
-| Oct. 23, 2018 (Tuesday) | Overview of internship project + Git tutorial | - What types of visualizations will we make this year? <br/> - How can you use Git for source control? |  |
-| Oct. 25, 2018 (Thursday) | Unseen Oceans exhibit | - Unseen Oceans (4:30 p.m. – 5:30 p.m.) <br/> - netCDF file format | Meet at fourth-floor Roosevelt elevators by 4:30 p.m. |
-| Oct. 30, 2018 (Tuesday) |  |  |  |
-| Nov. 1, 2018 (Thursday) |  |  |  |
+| Oct. 18, 2018 (Thursday) | Introduction to OCEANS | - Guest speaker | Guest speaker: David Lindo Atichati |
+| **Oct. 23, 2018 (Tuesday)** | Git tutorial + list comprehensions | - How can you use Git for source control? <br/> - What are list comprehensions |  | [List comprehensions](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/List_Comprehensions_and_Datsets_101818.ipynb) <br/> <br/> [Git tutorial](https://github.com/katyabbott/BridgeUP-STEM-Oceans-Six/blob/master/git-instructions.md)
+| Oct. 25, 2018 (Thursday) | Unseen Oceans exhibit + more Git + overview of research | - Unseen Oceans (4:30 p.m. – 5:30 p.m.) <br/> - What types of visualizations will we make this year? | Meet at fourth-floor Roosevelt elevators by 4:30 p.m. | 
+| Oct. 30, 2018 (Tuesday) | Introduction to netCDF files |  |  |
+| Nov. 1, 2018 (Thursday) | Visualizing netCDF files |  |  |
 | Nov. 6, 2018 (Tuesday) | No session |   | Election Day |
 | Nov. 8, 2018 (Thursday) |  |  |  |
 | Nov. 13, 2018 (Tuesday) |  | - Guest speaker | Guest speaker: Mia Polansky |
