@@ -14,18 +14,18 @@
       If you need more of a refresher, check out this handy [terminal cheat sheet](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/)
 4. Once you're in the right location, you&#39;ll clone your repository. This adds a local copy to your own computer, and you can make changes there! In Terminal, type **git clone \<url\>**, where **\<url\>** is the URL of your forked repository.
     * To find this URL, go to your GitHub account, open the repositories tab, find the forked repository, and click on the green button on the right side that says, \"Clone or download.\" Copy the URL it gives you.
-    ![clone url](https://github.com/katyabbott/BridgeUP-STEM-Oceans-Six/blob/master/photos/clone.png)
+    ![clone url](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/photos/clone.png)
   Make sure you're cloning your _forked_ repository, not the original! You can tell because in the top left corner, where it says the name of the repository, it will also have a description that identifies where it was forked from.
-  ![forked from](https://github.com/katyabbott/BridgeUP-STEM-Oceans-Six/blob/master/photos/forked_from.png)
+  ![forked from](https://github.com/aamnh/BridgeUP-STEM-Oceans-Six/blob/master/photos/forked_from.png)
 
 
 5. When you clone a repository, GitHub automatically creates a _remote_ called _origin_ that lets you interact with the online repository and make or download changes. Type **git remote -v** in Terminal to see a list of your remotes.
 6. Add me as a collaborator to your repository — that way, I'll be able to see your work and integrate it into the main repository. Under settings in your repository, visit "Collaborators & teams" and add my username (katyabbott) into the "Add collaborators" box. 
-![git remotes](https://github.com/katyabbott/BridgeUP-STEM-Oceans-Six/blob/master/photos/collaborate.png)
+![git remotes](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/photos/collaborate.png)
 7. Now, we'll add a new remote that points to the original repository — the one that you forked your own repository from. This way, if any changes are made to that original repository, you will be able to download them.
     * Type **git add remote upstream** **https://github.com/amnh/BridgeUP-STEM-Oceans-Six** in Terminal.
     * Now, type **git remote -v** again. You should see two remotes: One called **origin** that points to your own repository, and one called **upstream** that points to the original.
-    ![git remotes](https://github.com/katyabbott/BridgeUP-STEM-Oceans-Six/blob/master/photos/remotes.png)
+    ![git remotes](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/photos/remotes.png)
 8. Create a new **branch** in your repository. This allows you to make changes to your repository (i.e. to edit Jupyter Notebooks or write new code) without changing the main, master branch.
     * Type **git checkout -b \<branch\-name\>**. This creates a new branch _and_ switches you over to that new branch in git.
 9. Practice making a change to your repository and pushing that change: In the exquisite-corpse folder, open **story1.txt** and write your name.
