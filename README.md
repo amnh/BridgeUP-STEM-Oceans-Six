@@ -12,11 +12,11 @@ This is the GitHub repository for Katy Abbott's 2018 - 2019 BridgeUP:STEM intern
 | Oct. 16, 2018 (Tuesday) | Introduction to OCEANS | - Bermuda Triangle myths debunked <br/> - What are eddies? |   | [Ocean eddies activity](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/OceanEddies.pdf)
 | Oct. 18, 2018 (Thursday) | Introduction to OCEANS | - Guest speaker | Guest speaker: David Lindo Atichati |
 | **Oct. 23, 2018 (Tuesday)** | Git tutorial + list comprehensions | - How can you use Git for source control? <br/> - What are list comprehensions |  | [List comprehensions](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/List_Comprehensions_and_Datsets_101818.ipynb) <br/> <br/> [Git tutorial](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/git-instructions.md)
-| Oct. 25, 2018 (Thursday) | Unseen Oceans exhibit + more Git + overview of research | - Unseen Oceans (4:30 p.m. – 5:30 p.m.) <br/> - What types of visualizations will we make this year? | Meet at fourth-floor Roosevelt elevators by 4:30 p.m. | 
-| Oct. 30, 2018 (Tuesday) | Introduction to netCDF files |  |  |
-| Nov. 1, 2018 (Thursday) | Visualizing netCDF files |  |  |
+| Oct. 25, 2018 (Thursday) | Unseen Oceans exhibit + more Git | - Unseen Oceans (4:30 p.m. – 5:30 p.m.) <br/> | Meet at fourth-floor Roosevelt elevators by 4:30 p.m. | 
+| Oct. 30, 2018 (Tuesday) | Introduction to numpy arrays | - How to store and access data with numpy | Halloween | [Tips for indexing numpy arrays](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/numpy_arrays_103018.ipynb)
+| Nov. 1, 2018 (Thursday) | Introduction to netCDF files + overview of our project | - What types of visualizations will we make this year? |  |
 | Nov. 6, 2018 (Tuesday) | No session |   | Election Day |
-| Nov. 8, 2018 (Thursday) |  |  |  |
+| Nov. 8, 2018 (Thursday) | Visualizing netCDF files |  |  |
 | Nov. 13, 2018 (Tuesday) |  | - Guest speaker | Guest speaker: Mia Polansky |
 | Nov. 15, 2018 (Thursday) |  |  |  |
 | Nov. 20, 2018 (Tuesday) |  |  |  |
