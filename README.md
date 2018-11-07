@@ -16,9 +16,9 @@ This is the GitHub repository for Katy Abbott's 2018 - 2019 BridgeUP:STEM intern
 | Oct. 30, 2018 (Tuesday) | Introduction to numpy arrays | - How to store and access data with numpy | Halloween | [Tips for indexing numpy arrays](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/numpy_arrays_103018.ipynb)
 | Nov. 1, 2018 (Thursday) | Introduction to netCDF files + overview of our project | - What types of visualizations will we make this year? |  |
 | Nov. 6, 2018 (Tuesday) | No session |   | Election Day |
-| Nov. 8, 2018 (Thursday) | Visualizing netCDF files |  |  |
-| Nov. 13, 2018 (Tuesday) |  | - Guest speaker | Guest speaker: Mia Polansky |
-| Nov. 15, 2018 (Thursday) |  |  |  |
+| Nov. 8, 2018 (Thursday) | Numpy arrays and netCDF files | - Review of numpy arrays <br/> - How to open and view netCDF files  |  |
+| Nov. 13, 2018 (Tuesday) | NetCDF files | - How to work with netCDF files <br/> - Guest speaker | Guest speaker: Mia Polansky |
+| Nov. 15, 2018 (Thursday) | Visualizing netCDF data | - Matplotlib, Basemap, and SLA maps |  |
 | Nov. 20, 2018 (Tuesday) |  |  |  |
 | Nov. 22, 2018 (Thursday) | No session |   | Thanksgiving Day |
 | Nov. 27, 2018 (Tuesday) |  |  |  |
