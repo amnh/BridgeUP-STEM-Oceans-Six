@@ -47,6 +47,7 @@ Technically, the first dimension is known as the row, the second as column and t
 - To navigate to the home director: `cd `
 - To navigate to the previous folder: *cd ..*
 - To open a file: open <file name>
+- To find the path of a file: Find the file in Finder, then drag it into the Terminal window. The path will automatically appear!
 
 
 ## Git
