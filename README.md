@@ -16,13 +16,13 @@ This is the GitHub repository for Katy Abbott's 2018 - 2019 BridgeUP:STEM intern
 | Oct. 30, 2018 (Tuesday) | Introduction to numpy arrays | - How to store and access data with numpy + overview of our project <br/> -What types of visualizations will we make this year? | Halloween | [Tips for indexing numpy arrays](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/numpy_arrays_103018.ipynb)
 | Nov. 1, 2018 (Thursday) | Introduction to netCDF files + array review  | - Numpy array review <br/> - Practice with netCDFs |  | [numpy practice](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/numpy-practice_110118.ipynb) <br/> <br/> [netCDF practice](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/netCDF_practice.ipynb)
 | Nov. 6, 2018 (Tuesday) | No session |   | Election Day |
-| Nov. 8, 2018 (Thursday) | Visualizing netCDF files |  |  |
-| Nov. 13, 2018 (Tuesday) |  | - Guest speaker | Guest speaker: Mia Polansky |
-| Nov. 15, 2018 (Thursday) |  |  |  |
-| Nov. 20, 2018 (Tuesday) |  |  |  |
+| Nov. 8, 2018 (Thursday) | Numpy arrays and netCDF files | - Review of numpy arrays <br/> - How to open and view netCDF files  |  |
+| Nov. 13, 2018 (Tuesday) | NetCDF files | - How to work with netCDF files <br/> - Guest speaker | Guest speaker: Mia Polansky |
+| Nov. 15, 2018 (Thursday) | Visualizing netCDF data | - Matplotlib, Basemap, and SLA maps |  |
+| Nov. 20, 2018 (Tuesday) | Visualizing netCDF data | - Matplotlib, Basemap and SLA maps |  |
 | Nov. 22, 2018 (Thursday) | No session |   | Thanksgiving Day |
-| Nov. 27, 2018 (Tuesday) |  |  |  |
-| Nov. 29, 2018 (Thursday) |  |  |  |
+| Nov. 27, 2018 (Tuesday) | Sea-surface contour maps | - Contouring by hand  |  |
+| Nov. 29, 2018 (Thursday) | Sea-surface contour maps | - Automating the contour process |  |
 | Dec. 4, 2018 (Tuesday) |  |  |  |
 | Dec. 6, 2018 (Thursday) |  |  |  |
 | Dec. 11, 2018 (Tuesday) |  |  |  |
