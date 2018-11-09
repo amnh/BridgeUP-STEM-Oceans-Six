@@ -61,6 +61,4 @@ Technically, the first dimension is known as the row, the second as column and t
 - To push those changes to your remote repository: `git push origin master`
 - If you're working on a different branch or remote (not master or origin): `git push <remote-name> <branch-name>`
 - To sync your forked repository with any changes made to the original: 
-    - `git fetch upstream`
-    - `git checkout master` (replace master with your <branch-name> if you want to merge changes with another branch)
-    - `git merge upstream/master` (replace master with your <branch-name> if you want to merge changes with another branch)
+    - `git pull upstream master`
