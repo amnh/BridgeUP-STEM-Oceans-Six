@@ -1,0 +1,3 @@
+#ignore files that end in _KA.ipynb
+*_KA.ipynb
+*.ipynb_checkpoints
