@@ -25,11 +25,11 @@ With all the useful commands we've learned so far.
 | Nov. 15, 2018 (Thursday) | How to work with netCDF data | - Opening files |  | [netCDF practice](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/jupyter-notebooks/netCDF_practice.ipynb)
 | Nov. 20, 2018 (Tuesday) | Introduction to our dataset | - Bermuda SLA data |  |
 | Nov. 22, 2018 (Thursday) | No session |   | Thanksgiving Day |
-| Nov. 27, 2018 (Tuesday) | Sea-surface contour maps | - Contouring by hand  |  |
-| Nov. 29, 2018 (Thursday) | Sea-surface contour maps | - Automating the contour process |  |
-| Dec. 4, 2018 (Tuesday) |  |  |  |
-| Dec. 6, 2018 (Thursday) |  |  |  |
-| Dec. 11, 2018 (Tuesday) |  |  |  |
+| Nov. 27, 2018 (Tuesday) | Visualizing SLA data |  |  |
+| Nov. 29, 2018 (Thursday) | Visualizing SLA data |  |  |
+| Dec. 4, 2018 (Tuesday) | Visualizing our SLA data |  |  |
+| Dec. 6, 2018 (Thursday) | Begin developing presentation |  |  |
+| Dec. 11, 2018 (Tuesday) | Continue developing presentation |  |  |
 | Dec. 13, 2018 (Thursday) | Presentation skills workshop |   |   |
 | Dec. 18, 2018 (Tuesday) | Presentation practice |   |   |
 | Dec. 20, 2018 (Thursday) | Interns winter presentation |   |   |
