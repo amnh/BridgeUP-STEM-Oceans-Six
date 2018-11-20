@@ -30,8 +30,12 @@ Technically, the first dimension is known as the row, the second as column and t
 
 ## NetCDF files
 [This tutorial](http://www.ceda.ac.uk/static/media/uploads/ncas-reading-2015/10_read_netcdf_python.pdf) was written in Python 2.7, so the print command is slightly different, but it's a helpful read to understand how these files work.
-- Import the tools to open a dataset: `from netCDF4 import Dataset`
-- Open a dataset: `dataset = Dataset('filename.nc')`
+
+Follow these first steps in order:
+1. Import the tools to open a dataset: `from netCDF4 import Dataset`
+2. Open a dataset: `dataset = Dataset(filename.nc')`
+
+Use these tools in any order: 
 - View the dataset's attributes: `dataset.ncattrs()`
 - Access a specific attribute: `dataset.attribute_name`
 - View the dataset's dimensions: `dataset.dimensions`
