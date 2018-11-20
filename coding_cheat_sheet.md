@@ -33,7 +33,7 @@ Technically, the first dimension is known as the row, the second as column and t
 
 Follow these first steps in order:
 1. Import the tools to open a dataset: `from netCDF4 import Dataset`
-2. Open a dataset: `dataset = Dataset(filename.nc')`
+2. Open a dataset: `dataset = Dataset('path/to/filename.nc')`
 
 Use these tools in any order: 
 - View the dataset's attributes: `dataset.ncattrs()`
