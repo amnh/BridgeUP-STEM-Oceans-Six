@@ -23,10 +23,10 @@ With all the useful commands we've learned so far.
 | **Nov. 8, 2018 (Thursday)** | Numpy arrays revisited | - Review of numpy arrays <br/>  |  | [Visualizing numpy arrays](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/jupyter-notebooks/numpy_arrays_visualized_110818.ipynb)
 | Nov. 13, 2018 (Tuesday) | Guest speaker | - Guest speaker | Guest speaker: Mia Polansky |
 | Nov. 15, 2018 (Thursday) | How to work with netCDF data | - Opening files |  | [netCDF practice](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/jupyter-notebooks/netCDF_practice.ipynb)
-| Nov. 20, 2018 (Tuesday) | Introduction to our dataset | - Bermuda SLA data |  |
+| Nov. 20, 2018 (Tuesday) | Review of what we've learned, more netCDF work | - Brainstorm about winter presentation <br/> - Introducing Sublime |  |
 | Nov. 22, 2018 (Thursday) | No session |   | Thanksgiving Day |
-| Nov. 27, 2018 (Tuesday) | Visualizing SLA data |  |  |
-| Nov. 29, 2018 (Thursday) | Visualizing SLA data |  |  |
+| Nov. 27, 2018 (Tuesday) | Path game | - What are file paths? <br/> - What is the difference between an absolute and relative path? |  |
+| Nov. 29, 2018 (Thursday) | Exploring our Bermuda SLA dataset |  |  |
 | Dec. 4, 2018 (Tuesday) | Visualizing our SLA data |  |  |
 | Dec. 6, 2018 (Thursday) | Begin developing presentation |  |  |
 | Dec. 11, 2018 (Tuesday) | Continue developing presentation |  |  |
