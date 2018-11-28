@@ -1,40 +1,36 @@
 ## How to resolve our merge conflicts with Jupyter Notebook
 
+To resolve our merge conflicts, we will move your edited Jupyter notebooks to a new folder, disable the repository's Git functionality, reinitialize it and redownload all the files. Whenever you make edits to a notebook, you should make sure it gets saved into this new folder!
+
 ![image](https://i.dailymail.co.uk/i/pix/2015/03/15/26AA0E7100000578-2995909-image-a-35_1426444687120.jpg)
 
 1. It'll make it easier for you in the long run to just keep your BridgeUp STEM GitHub repository on your Desktop. Move it there if you haven't already. The folder you see should be called "BridgeUP-STEM-Oceans-Six"
 
-2. Go ahead and open any Jupyter Notebook file in your jupyter-notebooks folder, using Sublime. (You may have to right-click). Notice that it doesn't look exactly like it does it your browser. This makes it difficult to find differences between two files that could be causing Git to report a merge issue. In addition, every time you run a Jupyter Notebook, it's modified slightly, and Git also can't handle that easily.
+2. Open up Terminal, and use `cd` to navigate to your GitHub repository.
 
-3. Open your terminal. Type `conda install nbdime`. This is a tool, like Git, that you can use to resolve merge conflicts easily.
+3. Type `mv jupyter-notebooks jupyter-notebooks-completed`. 
+This `mv` command actually just renames your folder!
 
-4. Delete your branch. They aren't necessary for the work that we're doing and adding an additional layer of conflict. Remove the brackets (<, >) when you put in your branch name.
-    - `git checkout master`
+4. Type `rm -rf .git`. 
+This disables your repository's Git powers. 
 
-    - `git merge <put in name of branch>`
-    
-    If you can't remember the name of your branch (happens to the best of us!), type `git branch`. This will tell you the name of your active branches.
+5. Type `git init`
 
-    - `git commit -m "Merging branches"`
+6. Type `git remote add origin https://github.com/yourusername/BridgeUP-STEM-Oceans-Six.git`. 
+Make sure to replace "yourusername" with your GitHub username! If this doesn't work, change the name of the repository after the username to "BridgeUP-STEM-Abbott.git".
 
-    - `git branch -d <name of branch>`
+7. Type `git remote add upstream https://github.com/amnh/BridgeUP-STEM-Oceans-Six.git`
 
-5. `git status`. Do you have any files that need to be added?
+8. `git add .`
 
-    - `git add .`
+9. `git commit -m 'insert your message here'`
 
-    - `git commit -m "Message"`
+10. `git pull origin master`
 
-    - `git push origin master`
+11. `git push origin master -f` 
+The -f flag f forces this push request even if there are minor issues.
 
-6. `git pull upstream master`
+12. `git pull upstream master --allow-unrelated-histories` 
+This resolves the different histories between the files in your folder and the repository we're pulling from.
 
-    - (It will probably say Automatic Merge failed)
-
-7. Type `nbdime mergetool`. This will open a new window with your jupyter notebook file that shows the difference.
-![image](https://nbdime.readthedocs.io/en/stable/_images/nbdiff-web.png)
-
-8. Decide how you want to resolve these conflicts. What are the differences between the files? Look for a little red triangular hazard sign. It's up to you to decide how to do this, but I usually try to include any lines that are different in both versions, to avoid future issues. 
-Come talk to me if you're confused about how to resolve the two. Otherwise, you can just save and close.
-
-9. Now, you should be all set!
+13. Follow the usual `git add`, `git commit`, `push` to `origin master` commands. These should be second nature by now! If they're not, look at our [cheat sheet](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/coding_cheat_sheet.md)
