@@ -30,7 +30,7 @@ With all the useful commands we've learned so far.
 | Dec. 4, 2018 (Tuesday) | Visualizing our SLA data |  |  |
 | Dec. 6, 2018 (Thursday) | Begin developing presentation |  |  |
 | Dec. 11, 2018 (Tuesday) | Continue developing presentation |  |  |
-| Dec. 13, 2018 (Thursday) | Presentation skills workshop |   |   |
+| Dec. 13, 2018 (Thursday) | Community building activity |   |   |
 | Dec. 18, 2018 (Tuesday) | Presentation practice |   |   |
 | Dec. 20, 2018 (Thursday) | Interns winter presentation |   |   |
 | Dec. 25, 2018 (Tuesday) | No class |   | Winter recess  |
@@ -51,8 +51,8 @@ With all the useful commands we've learned so far.
 | Feb. 14, 2019 (Thursday) |   |   |   |
 | Feb. 19, 2019 (Tuesday) | No session |   |  Mid-winter recess |
 | Feb. 21, 2019 (Thursday) | No session |   |  Mid-winter recess |
-| Feb. 26, 2019 (Tuesday) | Resume building workshop |   |   |
-| Feb. 28, 2019 (Thursday) | HTML/CSS Workshop |   |   |
+| Feb. 26, 2019 (Tuesday) | Resume building workshop |   | Katy gone for conference  |
+| Feb. 28, 2019 (Thursday) | HTML/CSS Workshop |   | Katy gone for conference  |
 | March 5, 2019 (Tuesday) |   |   |   |
 | March 7, 2019 (Thursday) |   |   |   |
 | March 12, 2019 (Tuesday) |   |   |   |
@@ -62,7 +62,7 @@ With all the useful commands we've learned so far.
 | March 26, 2019 (Tuesday) |   |   |   |
 | March 28, 2019 (Thursday) |   |   |   |
 | April 2, 2019 (Tuesday) |   |   |   |
-| April 4, 2019 (Thursday) | Cluster training |   |   |
+| April 4, 2019 (Thursday) | Presentation skills workshop |   |   |
 | April 9, 2019 (Tuesday) |   |   |   |
 | April 11, 2019 (Thursday) |   |   |   |
 | April 16, 2019 (Tuesday) |   |   |   |
