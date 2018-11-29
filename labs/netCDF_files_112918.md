@@ -24,6 +24,8 @@ Once you have figured this out, try to draw it on a piece of paper!
 
 (Bonus: Figure out what the temporal coverage and resolution are (i.e. how many days does it span? What is the first and last day of measurement? How many days between each measurement?). Try to draw this as well.)
 
+(Hints: Use the first two lines of your code to import the dataset. Then begin exploring its different attributes. See if anything looks familiar...)
+
 Your resources:
 
 - Use [this tutorial](http://snowball.millersville.edu/~adecaria/ESCI386P/esci386-lesson14-Reading-NetCDF-files.pdf) and [this tutorial](http://www.ceda.ac.uk/static/media/uploads/ncas-reading-2015/10_read_netcdf_python.pdf) to figure out what information our dataset contains. Make sure to write down any commands you use in your .py script file!
