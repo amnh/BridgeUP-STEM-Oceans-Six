@@ -7,9 +7,9 @@ Today, we're going to use a new tool, Atom, to read, write and run our code! It'
 
 2. Go to the Settings tab, then to Featured Packages, and install Hydrogen. This is an interactive code editor that allows us to run snippets of our code right in our editor. 
 
-3. Quit Atom. Open your Terminal, and type these lines: 
-`conda install ipykernel
-python -m ipykernel install`
+3. Quit Atom. Open your Terminal, and type these lines: <br/>
+`conda install ipykernel` <br/>
+`python -m ipykernel install`
 
 4. Open up Atom again. You should be ready to rock and roll! Find the script we were working on two weeks ago, called netCDF_script_**yourinitials**.py, and drag it into Atom.
 
