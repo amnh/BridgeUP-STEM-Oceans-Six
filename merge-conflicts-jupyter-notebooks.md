@@ -32,5 +32,6 @@ The -f flag f forces this push request even if there are minor issues.
 
 12. `git pull upstream master --allow-unrelated-histories` 
 This resolves the different histories between the files in your folder and the repository we're pulling from.
+A Sublime window may pop up asking you to leave a note about your merge. Just close it.
 
 13. Follow the usual `git add`, `git commit`, `push` to `origin master` commands. These should be second nature by now! If they're not, look at our [cheat sheet](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/coding_cheat_sheet.md)
