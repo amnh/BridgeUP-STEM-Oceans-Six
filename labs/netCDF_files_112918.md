@@ -29,3 +29,5 @@ Your resources:
 - Use [this tutorial](http://snowball.millersville.edu/~adecaria/ESCI386P/esci386-lesson14-Reading-NetCDF-files.pdf) and [this tutorial](http://www.ceda.ac.uk/static/media/uploads/ncas-reading-2015/10_read_netcdf_python.pdf) to figure out what information our dataset contains. Make sure to write down any commands you use in your .py script file!
 
 - This [cheat sheet](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/coding_cheat_sheet.md) may also be useful. You can also look at the [documentation for the netCDF4 package and the Dataset tool](http://unidata.github.io/netcdf4-python/).
+
+## Reminder: Once you have finished working for the day, make sure to add and commit your changes! 
