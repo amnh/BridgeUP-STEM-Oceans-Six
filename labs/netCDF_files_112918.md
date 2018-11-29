@@ -11,14 +11,21 @@ Today, we're going to use a new tool, Atom, to read, write and run our code! It'
 `conda install ipykernel
 python -m ipykernel install`
 
-4. Open up Atom again. You should be ready to rock and roll! Find the script we were working on two weeks ago, called netCDF_script_yourinitials.py, and drag it into Atom.
+4. Open up Atom again. You should be ready to rock and roll! Find the script we were working on two weeks ago, called netCDF_script_**yourinitials**.py, and drag it into Atom.
 
-5. Let's play around with Atom! You can run individual lines by clicking on them and pressing `shift-enter`. You should see a little check mark next to the line if it doesn't have any output. Try writing a print statement and running that -- where does the output show up? 
+5. Let's play around with Atom! You can run individual lines by clicking on them and pressing `shift-enter`. You should see a little check mark next to the line if it has run successfully. Try writing a print statement and running that -- where does the output show up? 
 
-6. Replace the absolute path in your .py file that leads to the "sea_surface_temp.nc" file with the absolute path that leads to the "Bermuda_data_SLA.nc" file. (This is the file you downloaded on Tuesday -- you may have Slacked me the absolute path). This is our data for our project, and we'll be working with it for now on. 
+6. In the .py file you have opened, there is an absolute path. Find it, and replace it with the absolute path to the "Bermuda_data_SLA.nc" file. (This is the file you downloaded on Tuesday -- you may have Slacked me the absolute path). This is our data for our project, and we'll be working with it for now on. 
 
-7. [How to get them to start exploring on their own?]
+7. Time to explore our dataset! 
 
-Use these [tutorial](http://snowball.millersville.edu/~adecaria/ESCI386P/esci386-lesson14-Reading-NetCDF-files.pdf) to figure out what information our dataset contains. Your mission: Figure out what the latitude and longitude range is for our file (i.e., what is its spatial coverage) and what is the resolution (how many degrees between each point? Try to draw it.
+## Your mission: Work with a partner to find out what the spatial coverage and resolution is for our dataset. (I.e, what is the minimum longitude? Max? Minimum latitude? Max? How many degrees between each point?). 
+Once you have figured this out, try to draw it on a piece of paper!
 
-Bonus points if you can figure out what the time range is, and resolution (how many days between measurements?). Try to draw this as well.
+(Bonus: Figure out what the temporal coverage and resolution are (i.e. how many days does it span? What is the first and last day of measurement? How many days between each measurement?). Try to draw this as well.)
+
+Your resources:
+
+- Use [this tutorial](http://snowball.millersville.edu/~adecaria/ESCI386P/esci386-lesson14-Reading-NetCDF-files.pdf) and [this tutorial](http://www.ceda.ac.uk/static/media/uploads/ncas-reading-2015/10_read_netcdf_python.pdf) to figure out what information our dataset contains. Make sure to write down any commands you use in your .py script file!
+
+- This [cheat sheet](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/coding_cheat_sheet.md) may also be useful. You can also look at the [documentation for the netCDF4 package and the Dataset tool](http://unidata.github.io/netcdf4-python/).
