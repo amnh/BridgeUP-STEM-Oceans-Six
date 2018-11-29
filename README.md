@@ -20,13 +20,13 @@ With all the useful commands we've learned so far.
 | Oct. 30, 2018 (Tuesday) | Introduction to numpy arrays | - How to store and access data with numpy + overview of our project <br/> -What types of visualizations will we make this year? | Halloween | [Tips for indexing numpy arrays](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/jupyter-notebooks/numpy_arrays_103018.ipynb)
 | Nov. 1, 2018 (Thursday) | Introduction to netCDF files + array review  | - Numpy array review <br/> - Practice with netCDFs |  | [numpy practice](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/jupyter-notebooks/numpy-practice_110118.ipynb) <br/> <br/> [netCDF practice](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/jupyter-notebooks/netCDF_practice.ipynb)
 | Nov. 6, 2018 (Tuesday) | No session |   | Election Day |
-| **Nov. 8, 2018 (Thursday)** | Numpy arrays revisited | - Review of numpy arrays <br/>  |  | [Visualizing numpy arrays](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/jupyter-notebooks/numpy_arrays_visualized_110818.ipynb)
+| Nov. 8, 2018 (Thursday) | Numpy arrays revisited | - Review of numpy arrays <br/>  |  | [Visualizing numpy arrays](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/jupyter-notebooks/numpy_arrays_visualized_110818.ipynb)
 | Nov. 13, 2018 (Tuesday) | Guest speaker | - Guest speaker | Guest speaker: Mia Polansky |
 | Nov. 15, 2018 (Thursday) | How to work with netCDF data | - Opening files |  | [netCDF practice](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/jupyter-notebooks/netCDF_practice.ipynb)
 | Nov. 20, 2018 (Tuesday) | Review of what we've learned, more netCDF work | - Brainstorm about winter presentation <br/> - Introducing Sublime |  |
 | Nov. 22, 2018 (Thursday) | No session |   | Thanksgiving Day |
 | Nov. 27, 2018 (Tuesday) | Path game | - What are file paths? <br/> - What is the difference between an absolute and relative path? |  |
-| Nov. 29, 2018 (Thursday) | Exploring our Bermuda SLA dataset |  |  |
+| **Nov. 29, 2018 (Thursday)** | Exploring our Bermuda SLA dataset |  | |  [Resolving merge conflicts](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/merge-conflicts-jupyter-notebooks.md) <br/> <br/> [Diving into our Bermuda dataset](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/netCDF_files_112918.md) 
 | Dec. 4, 2018 (Tuesday) | Visualizing our SLA data |  |  |
 | Dec. 6, 2018 (Thursday) | Begin developing presentation |  |  |
 | Dec. 11, 2018 (Tuesday) | Continue developing presentation |  |  |
