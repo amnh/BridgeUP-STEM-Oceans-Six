@@ -19,7 +19,7 @@ python -m ipykernel install`
 
 7. Time to explore our dataset! 
 
-## Your mission: Work with a partner to find out what the spatial coverage and resolution is for our dataset. (I.e, what is the minimum longitude? Max? Minimum latitude? Max? How many degrees between each point?). 
+## Your mission: Work by yourself or with a partner to find out what the spatial coverage and resolution is for our dataset. (I.e, what is the minimum longitude? Max? Minimum latitude? Max? How many degrees between each point?). 
 Once you have figured this out, try to draw it on a piece of paper!
 
 (Bonus: Figure out what the temporal coverage and resolution are (i.e. how many days does it span? What is the first and last day of measurement? How many days between each measurement?). Try to draw this as well.)
