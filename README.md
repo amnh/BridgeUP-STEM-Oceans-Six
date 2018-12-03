@@ -2,7 +2,7 @@
 
 ![Image of sea otter](https://www.maxpixel.net/static/photo/2x/Swimming-Sea-Otter-Floating-Mammal-Alaska-Ocean-273064.jpg)
 
-This is the GitHub 1 repository for Katy Abbott's 2018 - 2019 BridgeUP:STEM internship group: Ocean's Six
+This is the GitHub repository for Katy Abbott's 2018 - 2019 BridgeUP:STEM internship group: Ocean's Six
 
 ## Useful links
 #### 1. [Coding cheat sheet](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/coding_cheat_sheet.md)
@@ -27,7 +27,7 @@ With all the useful commands we've learned so far.
 | Nov. 22, 2018 (Thursday) | No session |   | Thanksgiving Day |
 | Nov. 27, 2018 (Tuesday) | Path game | - What are file paths? <br/> - What is the difference between an absolute and relative path? |  |
 | **Nov. 29, 2018 (Thursday)** | Exploring our Bermuda SLA dataset |  | |  [Resolving merge conflicts](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/merge-conflicts-jupyter-notebooks.md) <br/> <br/> [Diving into our Bermuda dataset](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/netCDF_files_112918.md) 
-| Dec. 4, 2018 (Tuesday) | Visualizing our SLA data |  |  |
+| Dec. 4, 2018 (Tuesday) | Exploring our Bermuda SLA dataset |  |  | [Diving into our Bermuda dataset](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/netCDF_files_112918.md) 
 | Dec. 6, 2018 (Thursday) | Begin developing presentation |  |  |
 | Dec. 11, 2018 (Tuesday) | Continue developing presentation |  |  |
 | Dec. 13, 2018 (Thursday) | Community building activity |   |   |
