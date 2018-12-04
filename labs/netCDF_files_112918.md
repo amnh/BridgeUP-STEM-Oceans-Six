@@ -13,7 +13,7 @@ Today, we're going to use a new tool, Atom, to read, write and run our code! It'
 
 4. Open up Atom again. You should be ready to rock and roll! Find the script we were working on two weeks ago, called netCDF_script_**yourinitials**.py, and drag it into Atom.
 
-5. Let's play around with Atom! You can run individual lines by clicking on them and pressing `shift-enter`. You should see a little check mark next to the line if it has run successfully. Try writing a print statement and running that -- where does the output show up? 
+5. Let's play around with Atom! You can run individual lines by clicking on them and pressing `shift` and `enter` at the same time. You should see a little check mark next to the line if it has run successfully. Try writing a print statement and running that -- where does the output show up? 
 
 6. In the .py file you have opened, there is an absolute path. Find it, and replace it with the absolute path to the "Bermuda_data_SLA.nc" file. (This is the file you downloaded on Tuesday -- you may have Slacked me the absolute path). This is our data for our project, and we'll be working with it for now on. 
 
