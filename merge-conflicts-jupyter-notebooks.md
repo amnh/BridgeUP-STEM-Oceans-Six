@@ -27,8 +27,10 @@ Make sure to replace "yourusername" with your GitHub username! If this doesn't w
 
 10. `git pull origin master`
 
+10a. If during step 10, 11 or 12, you receive an error message that says "Automatic merge failed", type `git status` and read what it says. Then try `git add .` and `git commit -m "message"` again. 
+
 11. `git push origin master -f` 
-The -f flag f forces this push request even if there are minor issues.
+The -f flag f forces this request to happen even if there are minor issues.
 
 12. `git pull upstream master --allow-unrelated-histories` 
 This resolves the different histories between the files in your folder and the repository we're pulling from.
