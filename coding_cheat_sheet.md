@@ -56,13 +56,15 @@ Use these tools in any order:
 
 ## Git
 - To clone a repository: `git clone <url>`
+  (i.e., copy all files from an online repository to a folder on your computer)
 - To add a new remote: `git add remote <name> <url>`
+    (i.e., connecting your local repository (on your computer) to a remote repository (online)
 - To see your remotes: `git remote -v`
 - To add a change: `git add <file-name>`
-- To checkout (switch to) a new branch: `git checkout <branch-name>`
-- To delete an existing branch (be careful – you may lose your changes!): `git branch -d <branch-name>`
+    (i.e., you've edited a file and want to make Git aware of those changes)
 - To commit that change: `git commit -m "message"`
+    (this makes your changes official. It's basically like "saving" your work to Git.)
 - To push those changes to your remote repository: `git push origin master`
-- If you're working on a different branch or remote (not master or origin): `git push <remote-name> <branch-name>`
-- To sync your forked repository with any changes made to the original: 
-    - `git pull upstream master`
+     (i.e., sending any updated files to your online repository)
+- To sync your forked repository with any changes made to the original: `git pull upstream master`
+      (i.e., you're adding any new files from the main online repository to your computer)
