@@ -28,8 +28,8 @@ With all the useful commands we've learned so far.
 | Nov. 27, 2018 (Tuesday) | Path game | - What are file paths? <br/> - What is the difference between an absolute and relative path? |  |
 | Nov. 29, 2018 (Thursday) | Exploring our Bermuda SLA dataset |  | |  [Resolving merge conflicts](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/merge-conflicts-jupyter-notebooks.md) <br/> <br/> [Diving into our Bermuda dataset](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/netCDF_files_112918.md) 
 | Dec. 4, 2018 (Tuesday) | Exploring our Bermuda SLA dataset |  |  | [Diving into our Bermuda dataset](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/netCDF_files_112918.md) 
-| Dec. 6, 2018 (Thursday) | - Visualizing our dataset (by hand)  | | Louise visits  |
-| Dec. 11, 2018 (Tuesday) | Plotting SLA and developing presentation | - How to use pcolor <br/> - Adding labels and saving plots <br/> - Presentation outline |  | [Dataset visualization](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_12-11-18.md)
+| Dec. 6, 2018 (Thursday) | Visualizing our dataset (by hand)  | | Louise visits  |
+| **Dec. 11, 2018 (Tuesday)** | Plotting SLA and developing presentation | - How to use pcolor <br/> - Adding labels and saving plots <br/> - Presentation outline |  | [Dataset visualization](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_12-11-18.md)
 | Dec. 13, 2018 (Thursday) | Community building activity |   |   |
 | Dec. 18, 2018 (Tuesday) | Presentation practice |   |   |
 | Dec. 20, 2018 (Thursday) | Interns winter presentation |   |   |
