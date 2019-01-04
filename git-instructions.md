@@ -1,4 +1,4 @@
-**Intern instructions for GitHub**
+**Git Instructions**
 
 1. Log into GitHub on your browser, and navigate to [https://github.com/amnh/BridgeUP-STEM-Oceans-Six](https://github.com/amnh/BridgeUP-STEM-Oceans-Six). This is, of course, the repository where we will store all of our codes etc.
 2. Navigate to the right side of the window and click on &quot;Fork.&quot; This will save a new copy of the repository to your own GitHub account.
