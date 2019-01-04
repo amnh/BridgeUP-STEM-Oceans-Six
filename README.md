@@ -36,7 +36,7 @@ With all the useful commands we've learned so far.
 | Dec. 25, 2018 (Tuesday) | No class |   | Winter recess  |
 | Dec. 27, 2018 (Thursday) | No class |   | Winter recess  |
 | Jan. 1, 2019 (Tuesday) | No class  |   | Winter recess  |
-| Jan. 3, 2019 (Thursday) |  |  |  |
+| Jan. 3, 2019 (Thursday) | Review of internship topics so far | - Internship jeopardy <br/> - GitHub refresher |  | [Jeopardy answers](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/photos/intern%20jeopardy%20010319.pdf)
 | Jan. 8, 2019 (Tuesday) |   |   |   |
 | Jan. 10, 2019 (Thursday) |   |   |   |
 | Jan. 15, 2019 (Tuesday) |   |   |   |
