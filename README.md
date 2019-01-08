@@ -37,7 +37,7 @@ With all the useful commands we've learned so far.
 | Dec. 27, 2018 (Thursday) | No class |   | Winter recess  |
 | Jan. 1, 2019 (Tuesday) | No class  |   | Winter recess  |
 | Jan. 3, 2019 (Thursday) | Review of internship topics so far | - Internship jeopardy <br/> - GitHub refresher |  | [Jeopardy answers](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/photos/intern%20jeopardy%20010319.pdf)
-| **Jan. 8, 2019 (Tuesday)** | Hovmoller diagrams  | - Popcorn review of code  <br/> - What are Hovmoller diagrams? <br/> - Limitations | [Hovmöller diagrams](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_01-08-19.md)  |
+| **Jan. 8, 2019 (Tuesday)** | Hovmoller diagrams  | - Popcorn review of code  <br/> - What are Hovmoller diagrams? <br/> - Limitations |  | [Hovmöller diagrams](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_01-08-19.md)  
 | Jan. 10, 2019 (Thursday) | Hovmoller diagrams and for loops | - Finish up Hovmoller diagrams <br/> - Review of for loops <br/> |   |
 | Jan. 15, 2019 (Tuesday) | Dataset for loops | - Using for loops with our dataset <br/> - Creating animations |   |
 | Jan. 17, 2019 (Thursday) |  Dataset for loops cont'd | - Using for loops with our dataset  <br/> - Creating animations |   |
