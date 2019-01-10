@@ -16,7 +16,7 @@ sla1 = np.transpose(sla1, (0,2,1)) #reorder with time on x, lon on y, lat on z a
 x, y, z = np.meshgrid(time1, lon, lat, indexing='ij') #create uniform nxmxp grids
 
 xx = mlab.pipeline.image_plane_widget(mlab.pipeline.scalar_field(x,y,z,sla1), plane_orientation='x_axes', slice_index=8, colormap = 'plasma')
-yy = mlab.pipeline.image_plane_widget(mlab.pipeline.scalar_field(x,y,z,sla1), plane_orientation='x_axes', slice_index=2, colormap = 'plasma')
+yy = mlab.pipeline.image_plane_widget(mlab.pipeline.scalar_field(x,y,z,sla1), plane_orientation='y_axes', slice_index=10, colormap = 'plasma')
 data = mlab.pipeline.volume(mlab.pipeline.scalar_field(x,y,z,sla1))
 
 mlab.axes(xlabel='time', ylabel='longitude', zlabel='latitude', nb_labels=5) #creates axes labels and tick marks
@@ -25,3 +25,4 @@ scalarbar = mlab.scalarbar() #adds colorbar
 scalarbar.scalar_bar_representation.proportional_resize=True
 mlab.show() #displays image in iPython window
 
+sla.data
