@@ -55,7 +55,7 @@ With all the useful commands we've learned so far.
 | Feb. 28, 2019 (Thursday) | HTML/CSS Workshop |   | Katy gone for conference  |
 | March 5, 2019 (Tuesday) | Guest speaker: Alison Parrish | How can we use code to make poetry? | | [Alison's GitHub](https://github.com/aparrish) 
 | March 7, 2019 (Thursday) | Dataset for loops | - Review of script <br/> - Wrapping up animation of our data| |
-| March 12, 2019 (Tuesday) | Contour maps | - What are contour lines? <br/> - Potato activity <br/> - Drawing contours by hand | | [Lab activity](link here)
+| March 12, 2019 (Tuesday) | Contour maps | - What are contour lines? <br/> - Potato activity <br/> - Drawing contours by hand | | [Lab activity](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_03_12_19.md)
 | March 14, 2019 (Thursday) | | | |
 | March 19, 2019 (Tuesday) | | | |
 | March 21, 2019 (Thursday) | | | |
