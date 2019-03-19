@@ -38,7 +38,7 @@ With all the useful commands we've learned so far.
 | Jan. 1, 2019 (Tuesday) | No class  |   | Winter recess  |
 | Jan. 3, 2019 (Thursday) | Review of internship topics so far | - Internship jeopardy <br/> - GitHub refresher |  | [Jeopardy answers](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/photos/intern%20jeopardy%20010319.pdf)
 | Jan. 8, 2019 (Tuesday) | Hovmoller diagrams  | - Popcorn review of code  <br/> - What are Hovmoller diagrams? <br/> - Limitations |  | [Hovmöller diagrams](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_01-08-19.md)  
-| **Jan. 10, 2019 (Thursday)** | Hovmoller diagrams and for loops | - Finish up Hovmoller diagrams <br/> - Review of for loops <br/> |   | [For loops exercise](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_01-10-19.md)
+| Jan. 10, 2019 (Thursday) | Hovmoller diagrams and for loops | - Finish up Hovmoller diagrams <br/> - Review of for loops <br/> |   | [For loops exercise](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_01-10-19.md)
 | Jan. 15, 2019 (Tuesday) | Dataset for loops | - Using for loops with our dataset <br/> - Creating animations |   | [For loops and str.format](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_01_15_19.md)
 | Jan. 17, 2019 (Thursday) |  Dataset for loops cont'd | - Using for loops with our dataset  <br/> - Creating animations |   |
 | Jan. 22, 2019 (Tuesday) | For loops cont'd |  |   |
@@ -56,8 +56,8 @@ With all the useful commands we've learned so far.
 | March 5, 2019 (Tuesday) | Guest speaker: Alison Parrish | How can we use code to make poetry? | | [Alison's GitHub](https://github.com/aparrish) 
 | March 7, 2019 (Thursday) | Dataset for loops | - Review of script <br/> - Wrapping up animation of our data| |
 | March 12, 2019 (Tuesday) | Contour maps | - What are contour lines? <br/> - Potato activity <br/> - Drawing contours by hand | | [Lab activity](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_03_12_19.md)
-| March 14, 2019 (Thursday) | How can we use Matplotlib for contour maps? | - Practice with sample data <br | |
-| March 19, 2019 (Tuesday) | | | |
+| March 14, 2019 (Thursday) | How can we use Matplotlib for contour maps? | - Practice with sample data | | [Contour notebook](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/Contours_with_matplotlib.ipynb)
+| **March 19, 2019 (Tuesday)** | Making contour maps cont'd | - Finish practice with sample data  <br/> - Maps of our dataset| | - [Lab w/ instructions](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_03_19_19.md) <br/> - [Practice script](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/matplotlib_contours_practice.py)
 | March 21, 2019 (Thursday) | | | |
 | March 26, 2019 (Tuesday) | | | |
 | March 28, 2019 (Thursday) | | | |
