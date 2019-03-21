@@ -57,8 +57,8 @@ With all the useful commands we've learned so far.
 | March 7, 2019 (Thursday) | Dataset for loops | - Review of script <br/> - Wrapping up animation of our data| |
 | March 12, 2019 (Tuesday) | Contour maps | - What are contour lines? <br/> - Potato activity <br/> - Drawing contours by hand | | [Lab activity](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_03_12_19.md)
 | March 14, 2019 (Thursday) | How can we use Matplotlib for contour maps? | - Practice with sample data | | [Contour notebook](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/Contours_with_matplotlib.ipynb)
-| **March 19, 2019 (Tuesday)** | Making contour maps cont'd | - Finish practice with sample data  <br/> - Maps of our dataset| | - [Lab w/ instructions](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_03_19_19.md) <br/> - [Practice script](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/matplotlib_contours_practice.py)
-| March 21, 2019 (Thursday) | | | |
+| March 19, 2019 (Tuesday) | Making contour maps cont'd | - Finish practice with sample data  <br/> - Maps of our dataset| | - [Lab w/ instructions](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_03_19_19.md) <br/> - [Practice script](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/matplotlib_contours_practice.py)
+| **March 21, 2019 (Thursday)** | Contour maps of our dataset | - For loops review - Continue dataset contouring | | [Warmup](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_03_21_19.md)
 | March 26, 2019 (Tuesday) | | | |
 | March 28, 2019 (Thursday) | | | |
 | April 2, 2019 (Tuesday) | | | |
