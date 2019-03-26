@@ -58,21 +58,21 @@ With all the useful commands we've learned so far.
 | March 12, 2019 (Tuesday) | Contour maps | - What are contour lines? <br/> - Potato activity <br/> - Drawing contours by hand | | [Lab activity](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_03_12_19.md)
 | March 14, 2019 (Thursday) | How can we use Matplotlib for contour maps? | - Practice with sample data | | [Contour notebook](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/Contours_with_matplotlib.ipynb)
 | March 19, 2019 (Tuesday) | Making contour maps cont'd | - Finish practice with sample data  <br/> - Maps of our dataset| | - [Lab w/ instructions](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_03_19_19.md) <br/> - [Practice script](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/matplotlib_contours_practice.py)
-| **March 21, 2019 (Thursday)** | Contour maps of our dataset | - For loops review - Continue dataset contouring | | [Warmup](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_03_21_19.md)
-| March 26, 2019 (Tuesday) | | | |
+| March 21, 2019 (Thursday) | Contour maps of our dataset | - For loops review - Continue dataset contouring | | [Warmup](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_03_21_19.md)
+| **March 26, 2019 (Tuesday)** | Viewing the contours in a contour map | - Matplotlib and line collections <br/> - Jupyter Notebook practice | | - [Jupyter Notebook](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/Contours_with_matplotlib_part2.ipynb) <br/> [Atom script practice](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/matplotlib_contours_practice_part2.py)
 | March 28, 2019 (Thursday) | | | |
 | April 2, 2019 (Tuesday) | | | |
-| April 4, 2019 (Thursday) | Presentation skills workshop |   |   |
-| April 9, 2019 (Tuesday) | | | |
+| April 4, 2019 (Thursday) |  |   |   |
+| April 9, 2019 (Tuesday) | Guest speaker: Jessica Garson | | | [Jessica's GitHub](https://github.com/JessicaGarson?tab=repositories)
 | April 11, 2019 (Thursday) | | | |
 | April 16, 2019 (Tuesday) | | | |
 | April 18, 2019 (Thursday) | | | |
 | April 23, 2019 (Tuesday) | No session |   | Spring recess  |
 | April 25, 2019 (Thursday) | No session |   | Spring recess  |
-| April 30, 2019 (Tuesday) | | | |
-| May 2, 2019 (Thursday) | | | |
-| May 7, 2019 (Tuesday) | | | |
-| May 9, 2019 (Thursday) | Work on poster, presentation  |   |   |
+| April 30, 2019 (Tuesday) | Guest speaker: Sahil Chinoy | | | [Sahil's projects](https://sahilchinoy.com/)
+| May 2, 2019 (Thursday) |  | | |
+| May 7, 2019 (Tuesday) | Work on poster, presentation | | |
+| May 9, 2019 (Thursday) | Presentation skills workshop  |   |   |
 | May 14, 2019 (Tuesday) | Work on poster, presentation  |   |   |
 | May 16, 2019 (Thursday) | Work on poster, presentation  |   |   |
 | May 21, 2019 (Tuesday) | Work on poster, presentation  |   |   |
