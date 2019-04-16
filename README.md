@@ -61,17 +61,17 @@ With all the useful commands we've learned so far.
 | March 21, 2019 (Thursday) | Contour maps of our dataset | - For loops review - Continue dataset contouring | | [Warmup](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_03_21_19.md)
 | March 26, 2019 (Tuesday) | Viewing the contours in a contour map | - Matplotlib and line collections <br/> - Jupyter Notebook practice | | - [Jupyter Notebook](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/Contours_with_matplotlib_part2.ipynb) <br/> - [Atom script practice](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/matplotlib_contours_practice_part2.py)
 | **March 28, 2019 (Thursday)** | Accessing contour lines | - Functions to return contours - Dataframes! | | - [Lab](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/lab_03_28_19.md) - [Atom script](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/eddy_contours_script_032819.py)
-| April 2, 2019 (Tuesday) | | | Guest visitor: David|
+| April 2, 2019 (Tuesday) | | | |
 | April 4, 2019 (Thursday) |  |   |   |
 | April 9, 2019 (Tuesday) | Guest speaker: Jessica Garson | | | [Jessica's GitHub](https://github.com/JessicaGarson?tab=repositories)
-| April 11, 2019 (Thursday) | | | |
-| April 16, 2019 (Tuesday) | | | |
-| April 18, 2019 (Thursday) | | | |
+| April 11, 2019 (Thursday) | |  | Guest visitor: David |
+| April 16, 2019 (Tuesday) | Finishing up dataframes and algorithm  | - All interns complete contour dataframe script <br/> - Work on identifying closed contours | Guest visitor: Louise |
+| April 18, 2019 (Thursday) | Eddy ID special projects | | |
 | April 23, 2019 (Tuesday) | No session |   | Spring recess  |
 | April 25, 2019 (Thursday) | No session |   | Spring recess  |
 | April 30, 2019 (Tuesday) | Guest speaker: Sahil Chinoy | | | [Sahil's projects](https://sahilchinoy.com/)
-| May 2, 2019 (Thursday) |  | | |
-| May 7, 2019 (Tuesday) | Work on poster, presentation | | |
+| May 2, 2019 (Thursday) | Eddy ID special projects | | |
+| May 7, 2019 (Tuesday) | Eddy ID special projects | | |
 | May 9, 2019 (Thursday) | Presentation skills workshop  |   |   |
 | May 14, 2019 (Tuesday) | Work on poster, presentation  |   |   |
 | May 16, 2019 (Thursday) | Work on poster, presentation  |   |   |
