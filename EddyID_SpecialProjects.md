@@ -12,4 +12,4 @@
 
 
 ## 4. The all-important documentation and packaging -- clean up our code and make it presentable for other users! 
-![](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiUv7axttXhAhUEnFkKHe4iCoAQjRx6BAgBEAU&url=http%3A%2F%2Fwww.quickmeme.com%2Fmeme%2F3t24q3&psig=AOvVaw28JuKGKgqkqMzkEiVovydg&ust=1555531961800964)
+![](http://www.quickmeme.com/img/d3/d36ad81bae0a8d69cd91f81065d8b0a19d9dfc1b63753093992282d6aa8b35dd.jpg)
