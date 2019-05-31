@@ -66,12 +66,12 @@ With all the useful commands we've learned so far.
 | April 9, 2019 (Tuesday) | Guest speaker: Jessica Garson | | | [Jessica's GitHub](https://github.com/JessicaGarson?tab=repositories)
 | April 11, 2019 (Thursday) | |  | Guest visitor: David |
 | April 16, 2019 (Tuesday) | Finishing up dataframes and algorithm  | - All interns complete contour dataframe script <br/> - Work on identifying closed contours | Guest visitor: Louise | [Possible projects](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/EddyID_SpecialProjects.md)
-| April 18, 2019 (Thursday) | Eddy ID special projects | | | [Possible projects](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/EddyID_SpecialProjects.md)
+| April 18, 2019 (Thursday) | Eddy ID special projects | | | [Project 1](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/Project1_PlottingEddies.md) <br/> [Project 2](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/Project2_EddiesInsideEddies.md) <br/> [Project 3](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/Project3_SizeofEddies.md)
 | April 23, 2019 (Tuesday) | No session |   | Spring recess  |
 | April 25, 2019 (Thursday) | No session |   | Spring recess  |
 | April 30, 2019 (Tuesday) | Guest speaker: Sahil Chinoy | | | [Sahil's projects](https://sahilchinoy.com/)
-| May 2, 2019 (Thursday) | Eddy ID special projects | | | [Possible projects](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/EddyID_SpecialProjects.md)
-| May 7, 2019 (Tuesday) | Eddy ID special projects | | | [Possible projects](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/EddyID_SpecialProjects.md)
+| May 2, 2019 (Thursday) | Eddy ID special projects | | | [Project 1](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/Project1_PlottingEddies.md) <br/> [Project 2](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/Project2_EddiesInsideEddies.md) <br/> [Project 3](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/Project3_SizeofEddies.md)
+| May 7, 2019 (Tuesday) | Eddy ID special projects | | | [Project 1](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/Project1_PlottingEddies.md) <br/> [Project 2](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/Project2_EddiesInsideEddies.md) <br/> [Project 3](https://github.com/amnh/BridgeUP-STEM-Oceans-Six/blob/master/labs/Project3_SizeofEddies.md)
 | May 9, 2019 (Thursday) | Presentation skills workshop  |   |   |
 | May 14, 2019 (Tuesday) | Work on poster, presentation  |   |   |
 | May 16, 2019 (Thursday) | Work on poster, presentation  |   |   |
